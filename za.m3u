@@ -1,0 +1,6 @@
+#EXTM3U
+# This is a minimal placeholder playlist for Media Station X.
+# Media Station X will actually load the full ZA playlist directly from iptv-org via the JSON config.
+# If you want to host your own full playlist, replace the entry below with real channel entries.
+#EXTINF:-1 group-title="Playlists",ZA (iptv-org master playlist)
+https://iptv-org.github.io/iptv/countries/za.m3u

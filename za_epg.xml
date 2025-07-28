@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT Demo EPG">
+  <channel id="sabc-1">
+    <display-name lang="en">SABC 1</display-name>
+  </channel>
+  <channel id="sabc-2">
+    <display-name lang="en">SABC 2</display-name>
+  </channel>
+  <channel id="sabc-3">
+    <display-name lang="en">SABC 3</display-name>
+  </channel>
+  <channel id="etv">
+    <display-name lang="en">e.tv</display-name>
+  </channel>
+  <channel id="supersport-football">
+    <display-name lang="en">SuperSport Football</display-name>
+  </channel>
+  <programme start="20250728180000 +0200" stop="20250728200000 +0200" channel="sabc-1">
+    <title lang="en">SABC 1 – Program 1</title>
+    <desc lang="en">Demo listing for SABC 1, slot 1. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728200000 +0200" stop="20250728220000 +0200" channel="sabc-1">
+    <title lang="en">SABC 1 – Program 2</title>
+    <desc lang="en">Demo listing for SABC 1, slot 2. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728220000 +0200" stop="20250729000000 +0200" channel="sabc-1">
+    <title lang="en">SABC 1 – Program 3</title>
+    <desc lang="en">Demo listing for SABC 1, slot 3. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729000000 +0200" stop="20250729020000 +0200" channel="sabc-1">
+    <title lang="en">SABC 1 – Program 4</title>
+    <desc lang="en">Demo listing for SABC 1, slot 4. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729020000 +0200" stop="20250729040000 +0200" channel="sabc-1">
+    <title lang="en">SABC 1 – Program 5</title>
+    <desc lang="en">Demo listing for SABC 1, slot 5. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729040000 +0200" stop="20250729060000 +0200" channel="sabc-1">
+    <title lang="en">SABC 1 – Program 6</title>
+    <desc lang="en">Demo listing for SABC 1, slot 6. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728180000 +0200" stop="20250728200000 +0200" channel="sabc-2">
+    <title lang="en">SABC 2 – Program 1</title>
+    <desc lang="en">Demo listing for SABC 2, slot 1. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728200000 +0200" stop="20250728220000 +0200" channel="sabc-2">
+    <title lang="en">SABC 2 – Program 2</title>
+    <desc lang="en">Demo listing for SABC 2, slot 2. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728220000 +0200" stop="20250729000000 +0200" channel="sabc-2">
+    <title lang="en">SABC 2 – Program 3</title>
+    <desc lang="en">Demo listing for SABC 2, slot 3. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729000000 +0200" stop="20250729020000 +0200" channel="sabc-2">
+    <title lang="en">SABC 2 – Program 4</title>
+    <desc lang="en">Demo listing for SABC 2, slot 4. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729020000 +0200" stop="20250729040000 +0200" channel="sabc-2">
+    <title lang="en">SABC 2 – Program 5</title>
+    <desc lang="en">Demo listing for SABC 2, slot 5. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729040000 +0200" stop="20250729060000 +0200" channel="sabc-2">
+    <title lang="en">SABC 2 – Program 6</title>
+    <desc lang="en">Demo listing for SABC 2, slot 6. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728180000 +0200" stop="20250728200000 +0200" channel="sabc-3">
+    <title lang="en">SABC 3 – Program 1</title>
+    <desc lang="en">Demo listing for SABC 3, slot 1. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728200000 +0200" stop="20250728220000 +0200" channel="sabc-3">
+    <title lang="en">SABC 3 – Program 2</title>
+    <desc lang="en">Demo listing for SABC 3, slot 2. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728220000 +0200" stop="20250729000000 +0200" channel="sabc-3">
+    <title lang="en">SABC 3 – Program 3</title>
+    <desc lang="en">Demo listing for SABC 3, slot 3. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729000000 +0200" stop="20250729020000 +0200" channel="sabc-3">
+    <title lang="en">SABC 3 – Program 4</title>
+    <desc lang="en">Demo listing for SABC 3, slot 4. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729020000 +0200" stop="20250729040000 +0200" channel="sabc-3">
+    <title lang="en">SABC 3 – Program 5</title>
+    <desc lang="en">Demo listing for SABC 3, slot 5. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729040000 +0200" stop="20250729060000 +0200" channel="sabc-3">
+    <title lang="en">SABC 3 – Program 6</title>
+    <desc lang="en">Demo listing for SABC 3, slot 6. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728180000 +0200" stop="20250728200000 +0200" channel="etv">
+    <title lang="en">e.tv – Program 1</title>
+    <desc lang="en">Demo listing for e.tv, slot 1. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728200000 +0200" stop="20250728220000 +0200" channel="etv">
+    <title lang="en">e.tv – Program 2</title>
+    <desc lang="en">Demo listing for e.tv, slot 2. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728220000 +0200" stop="20250729000000 +0200" channel="etv">
+    <title lang="en">e.tv – Program 3</title>
+    <desc lang="en">Demo listing for e.tv, slot 3. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729000000 +0200" stop="20250729020000 +0200" channel="etv">
+    <title lang="en">e.tv – Program 4</title>
+    <desc lang="en">Demo listing for e.tv, slot 4. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729020000 +0200" stop="20250729040000 +0200" channel="etv">
+    <title lang="en">e.tv – Program 5</title>
+    <desc lang="en">Demo listing for e.tv, slot 5. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729040000 +0200" stop="20250729060000 +0200" channel="etv">
+    <title lang="en">e.tv – Program 6</title>
+    <desc lang="en">Demo listing for e.tv, slot 6. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728180000 +0200" stop="20250728200000 +0200" channel="supersport-football">
+    <title lang="en">SuperSport Football – Program 1</title>
+    <desc lang="en">Demo listing for SuperSport Football, slot 1. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728200000 +0200" stop="20250728220000 +0200" channel="supersport-football">
+    <title lang="en">SuperSport Football – Program 2</title>
+    <desc lang="en">Demo listing for SuperSport Football, slot 2. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250728220000 +0200" stop="20250729000000 +0200" channel="supersport-football">
+    <title lang="en">SuperSport Football – Program 3</title>
+    <desc lang="en">Demo listing for SuperSport Football, slot 3. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729000000 +0200" stop="20250729020000 +0200" channel="supersport-football">
+    <title lang="en">SuperSport Football – Program 4</title>
+    <desc lang="en">Demo listing for SuperSport Football, slot 4. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729020000 +0200" stop="20250729040000 +0200" channel="supersport-football">
+    <title lang="en">SuperSport Football – Program 5</title>
+    <desc lang="en">Demo listing for SuperSport Football, slot 5. Replace with real EPG when available.</desc>
+  </programme>
+  <programme start="20250729040000 +0200" stop="20250729060000 +0200" channel="supersport-football">
+    <title lang="en">SuperSport Football – Program 6</title>
+    <desc lang="en">Demo listing for SuperSport Football, slot 6. Replace with real EPG when available.</desc>
+  </programme>
+</tv>

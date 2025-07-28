@@ -1,0 +1,10 @@
+{
+  "playlists": [
+    {
+      "name": "South Africa IPTV (iptv-org)",
+      "type": "m3u",
+      "url": "https://iptv-org.github.io/iptv/countries/za.m3u",
+      "epg": "https://Young-khrist.github.io/iptv-za/za_epg.xml"
+    }
+  ]
+}
